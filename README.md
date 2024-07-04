@@ -91,4 +91,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or improvem
 ## Contact
 For any questions or feedback, please contact:
 - GitHub: [Hi](https://github.com/Ali-Ch-001)
-- Linkedin [Hi Again!!](https://www.linkedin.com/in/ali-787-ch/)
+- Linkedin: [Hi Again!!](https://www.linkedin.com/in/ali-787-ch/)
